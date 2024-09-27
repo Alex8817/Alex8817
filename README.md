@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
 
 ### Связаться со мной можно здесь:
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:georgii.bubnov.spb@gmail.com)](mailto:georgii.bubnov.spb@gmail.com)
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/GeorgiiLight)
 
   <a href="https://t.me/alexey0988">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
