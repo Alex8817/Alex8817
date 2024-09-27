@@ -1,5 +1,7 @@
 <h1 align="center">Здравствуйте, я Алексей 👋</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AQA+Engineer)](https://git.io/typing-svg)
+
+- :technologist: Пишу автотесты на **Java**
+- :astronaut: Развиваюсь в тестирование и автоматизации. Стремлюсь и стараюсь стать QA Fullstack / QA automation
 
 ---
 ## Контакты:
